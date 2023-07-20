@@ -1,0 +1,7 @@
+lib
+include
+bin
+*.cfg
+.vscode
+__pycache__
+share

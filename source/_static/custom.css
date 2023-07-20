@@ -1,0 +1,20 @@
+/* Navbar text size */
+.navbar-nav > li > a {
+    font-size: 24px; /* Change the font size to your desired value */
+}
+
+.navbar-brand {
+    font-size: 24px; /* Change the font size to your desired value */
+}
+
+html[data-theme="light"] {
+    --pst-color-primary: rgb(174, 58, 58);
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary: #cfb991;
+    --sd-color-secondary: #1681e0;
+    --sd-color-card-border-hover: #ddb945;
+    --sd-color-dark: #9f23b2;
+}
+

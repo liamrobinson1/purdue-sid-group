@@ -1,10 +1,6 @@
 .. sidebar:: 
     
-    .. card::
-        :img-background: _static/liam_robinson.png
-        :text-align: center
-        :shadow: sm
-        :margin: 0
+    .. figure:: liam_robinson.png
 
 Liam Robinson
 =============
@@ -15,6 +11,4 @@ Liam graduated with a BS in AAE from Purdue in December 2022 and is currently pu
 Publications
 ~~~~~~~~~~~~
 
-.. include:: _static/liam/pubs.rst
-
-.. bibliography::
+.. include:: pubs.rst

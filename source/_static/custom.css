@@ -1,11 +1,11 @@
 /* Navbar text size */
-.navbar-nav > li > a {
+/* .navbar-nav > li > a {
     font-size: 24px; /* Change the font size to your desired value */
-}
+} */
 
-.navbar-brand {
+/* .navbar-brand {
     font-size: 24px; /* Change the font size to your desired value */
-}
+} */
 
 html[data-theme="light"] {
     --pst-color-primary: rgb(174, 58, 58);

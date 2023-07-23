@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Space Information Dynamics Group'
-copyright = '2023, Liam Robinson'
+copyright = '2023, Purdue Space Information Dynamics Group'
 author = 'Liam Robinson'
 
 # -- General configuration ---------------------------------------------------
@@ -39,6 +39,8 @@ html_theme_options = {
     },
   "footer_start": ["copyright"],
   "footer_end": [],
+  "secondary_sidebar_items": [],
+  "show_prev_next": False,
 }
 html_show_sourcelink = False
 html_show_sphinx = False

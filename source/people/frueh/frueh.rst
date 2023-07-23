@@ -1,10 +1,7 @@
 .. sidebar:: 
     
-    .. card::
-        :img-background: _static/carolin_frueh1.jpeg
-        :text-align: center
-        :shadow: sm
-        :margin: 0
+    .. figure:: carolin_frueh1.jpeg
+
 
 Dr. Carolin Frueh
 =================
@@ -115,7 +112,7 @@ Publications
 
     .. grid-item-card:: :cite:p:`fan2019` A Direct Light Curve Inversion Scheme in the Presence of Measurement Noise
         :link: https://link.springer.com/article/10.1007/s40295-019-00190-3
-        :img-top: _static/frueh/fan2019.png
+        :img-top: fan2019.png
         :shadow: sm
 
 

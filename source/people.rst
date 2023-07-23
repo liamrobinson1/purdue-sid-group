@@ -59,6 +59,12 @@ PhD Students
         :shadow: sm
         :padding: 2
 
+    .. grid-item-card:: Riccardo Cipollone
+        :link: https://example.com
+        :img-top: people/beedo/beedo.jpeg
+        :shadow: sm
+        :padding: 2
+
 
 Master's Students
 .................

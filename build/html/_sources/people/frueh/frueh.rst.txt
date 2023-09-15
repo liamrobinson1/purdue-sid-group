@@ -84,25 +84,25 @@ Contact
 
 Awards and Major Appointments
 .............................
-    - The Elmer F. Bruhn Teaching Award, 2021 
-    - DAAD Faculty Award, German Space Operations Center at DLR, 2017, 2020-2021 
-    - Recognized among Outstanding Engineering Teachers, Summer-Fall, 2019 
-    - Best Presentation Award, Advanced Maui Optical and Space Surveillance Technology (AMOS) Conf., 2019 
-    - Purdue Faculty Summer Fellowship Europe, 2019 
-    - NASA summer visiting faculty, NASA Johnson Space Center, 2018 
-    - US National Research Council Postdoctoral Fellowship, Air Force Research Lab, 2012/2013
+- The Elmer F. Bruhn Teaching Award, 2021 
+- DAAD Faculty Award, German Space Operations Center at DLR, 2017, 2020-2021 
+- Recognized among Outstanding Engineering Teachers, Summer-Fall, 2019 
+- Best Presentation Award, Advanced Maui Optical and Space Surveillance Technology (AMOS) Conf., 2019 
+- Purdue Faculty Summer Fellowship Europe, 2019 
+- NASA summer visiting faculty, NASA Johnson Space Center, 2018 
+- US National Research Council Postdoctoral Fellowship, Air Force Research Lab, 2012/2013
 
 Research Areas
 ..............
-    - Space Domain Awareness and Space Traffic Management in the Near-Earth and Cislunar Region
-    - Space Surveillance, Detection & Tracking
-    - Object Characterization of satellites and space debris in the Near-Earth and Cislunar Realm
-    - Astrodynamic
-    - Image Processing, Overhead Surveillance and Processing (e.g. Airplanes, ground structures)
-    - Sensor Tasking
-    - Low Observability Systems
-    - Information Quantification and Retrieval
-    - Machine Learning
+- Space Domain Awareness and Space Traffic Management in the Near-Earth and Cislunar Region
+- Space Surveillance, Detection & Tracking
+- Object Characterization of satellites and space debris in the Near-Earth and Cislunar Realm
+- Astrodynamic
+- Image Processing, Overhead Surveillance and Processing (e.g. Airplanes, ground structures)
+- Sensor Tasking
+- Low Observability Systems
+- Information Quantification and Retrieval
+- Machine Learning
 
 Publications
 ~~~~~~~~~~~~

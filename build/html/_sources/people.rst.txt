@@ -93,7 +93,7 @@ Master's Students
 
     .. grid-item-card:: Dan Curren
         :link: https://example.com
-        :img-top: people/beedo/beedo.jpeg
+        :img-top: people/dan/dan.png
         :shadow: sm
         :padding: 2
 

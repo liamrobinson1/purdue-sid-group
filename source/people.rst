@@ -19,13 +19,13 @@ PhD Students
 
     .. grid-item-card:: Alex Burton
         :link: https://example.com
-        :img-top: people/beedo/beedo.jpeg
+        :img-top: people/alex/alex.png
         :shadow: sm
         :padding: 2
 
     .. grid-item-card:: Nathan Houtz
         :link: https://example.com
-        :img-top: people/beedo/beedo.jpeg
+        :img-top: people/nathan/nathan.png
         :shadow: sm
         :padding: 2
 
@@ -37,7 +37,7 @@ PhD Students
 
     .. grid-item-card:: Surabhi Bhadauria
         :link: https://example.com
-        :img-top: people/arly/arly.jpg
+        :img-top: people/surabhi/surabhi.png
         :shadow: sm
         :padding: 2
 
@@ -65,7 +65,7 @@ PhD Students
 
     .. grid-item-card:: Riccardo Cipollone
         :link: https://example.com
-        :img-top: people/beedo/beedo.jpeg
+        :img-top: people/riccardo/riccardo.jpg
         :shadow: sm
         :padding: 2
 
@@ -104,6 +104,14 @@ Master's Students
         :padding: 2
 
         BS AAE, Purdue University, 2023
+
+    .. grid-item-card:: Aidan Hoff
+        :link: https://example.com
+        :img-top: people/aidan/aidan.jpeg
+        :shadow: sm
+        :padding: 2
+
+        BS Aerospace Engineering, Syracuse University, 2023
 
         
         

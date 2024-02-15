@@ -1,6 +1,6 @@
 .. sidebar:: 
     
-    .. figure:: carolin_frueh1.jpeg
+    .. figure:: frueh.jpg
 
 
 Dr. Carolin Frueh
@@ -106,15 +106,6 @@ Research Areas
 
 Publications
 ~~~~~~~~~~~~
-
-
-.. grid:: 1 2 3 3
-
-    .. grid-item-card:: :cite:p:`fan2019` A Direct Light Curve Inversion Scheme in the Presence of Measurement Noise
-        :link: https://link.springer.com/article/10.1007/s40295-019-00190-3
-        :img-top: fan2019.png
-        :shadow: sm
-
 
 .. bibliography::
    :filter: author % "Frueh"

@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Space Information Dynamics Group'
-copyright = '2023, Purdue Space Information Dynamics Group'
+copyright = '2024, Purdue Space Information Dynamics Group'
 author = 'Liam Robinson'
 
 # -- General configuration ---------------------------------------------------
@@ -46,9 +46,9 @@ html_show_sourcelink = False
 html_show_sphinx = False
 html_permalinks = False
 
-bibtex_bibfiles = ["_static/sid_group_pubs.bib"]
+import os
+bibtex_bibfiles = [os.path.join("_static/bib", x) for x in os.listdir("_static/bib") if x.endswith(".bib")]
 
 import sys
-import os
 
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))

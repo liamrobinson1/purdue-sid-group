@@ -10,7 +10,7 @@ Dr. Carolin Frueh's Space Information Dynamics Group
    people
    publications
    pogs
+   pedas/pedas
 
-Insert text about space and stuff
 
 .. image:: _static/home/catalog_transparent.png

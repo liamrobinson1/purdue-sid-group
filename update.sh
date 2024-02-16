@@ -1,5 +1,4 @@
+source bin/activate && make html
+git add --all && git commit -m "update" && git push
 rm -rf /Volumes/ssa/*
-git clone https://github.com/liamrobinson1/purdue-sid-group/ ./tmp
-mv ./tmp/build/html/* .
-rm -rf tmp
-rm -rf tmp
+cp -r ./build/html/* /Volumes/ssa/

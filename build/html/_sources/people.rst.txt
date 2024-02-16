@@ -118,6 +118,7 @@ Undergraduate Students
 
     .. grid-item-card:: Landon Abboud
         :link: people/landon/landon.html
+        :img-top: people/landon/landon.jpg
         :shadow: sm
         :padding: 2
 

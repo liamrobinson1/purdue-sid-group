@@ -113,6 +113,7 @@ Undergraduate Students
 
     .. grid-item-card:: Robert Lusthaus
         :link: people/robert/robert.html
+        :img-top: people/robert/robert.jpg
         :shadow: sm
         :padding: 2
 

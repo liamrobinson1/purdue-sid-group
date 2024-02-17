@@ -1,3 +1,7 @@
+.. sidebar:: 
+    
+    .. figure:: robert.jpg
+
 Robert Lusthaus
 ===============
 

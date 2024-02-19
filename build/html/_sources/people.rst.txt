@@ -76,8 +76,11 @@ PhD Students
 
     .. grid-item-card:: Pavi Ravi
         :link: people/pavi/pavi.html
+        :img-top: people/pavi/pavi.jpeg
         :shadow: sm
         :padding: 2
+
+        BS AAE 2019, MS AAE 2021, Purdue University
 
 
 Master's Students

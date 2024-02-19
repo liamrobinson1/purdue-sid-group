@@ -1,3 +1,7 @@
+.. sidebar:: 
+    
+    .. figure:: pavi.jpeg
+
 Pavi Ravi
 =========
 

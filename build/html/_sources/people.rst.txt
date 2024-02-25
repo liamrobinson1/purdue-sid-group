@@ -74,14 +74,6 @@ PhD Students
         :shadow: sm
         :padding: 2
 
-    .. grid-item-card:: Pavi Ravi
-        :link: people/pavi/pavi.html
-        :img-top: people/pavi/pavi.jpeg
-        :shadow: sm
-        :padding: 2
-
-        BS AAE 2019, MS AAE 2021, Purdue University
-
 
 Master's Students
 .................
@@ -127,11 +119,24 @@ Undergraduate Students
         :padding: 2
 
 
+Visiting Students
+.................
+
+.. grid:: 2 3 3 4
+
+    .. grid-item-card:: Pavi Ravi
+        :link: people/pavi/pavi.html
+        :img-top: people/pavi/pavi.jpeg
+        :shadow: sm
+        :padding: 2
+
+        BS AAE 2019, MS AAE 2021, Purdue University
+
 PhD Alumni
 ..........
 
-MS Alumnni
-..........
+MS Alumni
+.........
 
 .. grid:: 2 3 3 4
 
@@ -140,8 +145,8 @@ MS Alumnni
         :shadow: sm
         :padding: 2
 
-Other Former Students
-.....................
+Visiting Student Alumni
+.......................
 
 .. grid:: 2 3 3 4
 
@@ -149,10 +154,3 @@ Other Former Students
         :img-top: people/riccardo/riccardo.jpg
         :shadow: sm
         :padding: 2
-
-    .. grid-item-card:: Aidan Hoff
-        :img-top: people/aidan/aidan.jpeg
-        :shadow: sm
-        :padding: 2
-
-        BS Aerospace Engineering, Syracuse University, 2023

@@ -4,10 +4,3 @@
 
 Surabhi Bhadauria
 =================
-
-
-Publications
-~~~~~~~~~~~~
-
-.. bibliography::
-   :filter: author % "Houtz"

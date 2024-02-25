@@ -34,7 +34,7 @@ html_theme_options = {
         "logo": {
         "image_light": "_static/sid_logo_light.png",
         "image_dark": "_static/sid_logo_dark.png",
-        "text": "SID Group",
+        "text": "",
         "nosidebar": True,
     },
   "footer_start": ["copyright"],

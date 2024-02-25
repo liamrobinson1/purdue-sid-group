@@ -6,7 +6,7 @@
 Dr. Carolin Frueh
 =================
 
-Harold DeGroff, Jr. Associate Professor of Aeronautics and Astronautics (2014-present)
+Harold DeGroff Associate Professor of Aeronautics and Astronautics (2014-present)
 
 Degrees
 ~~~~~~~
@@ -14,76 +14,76 @@ Degrees
 Ph.D., Physics with Specialization in Astronomy, University of Bern, Switzerland, 2011 
 MS of Science, Karlsruhe Institute of Technology, Germany, 2006
 
-Contact
-~~~~~~~
+|
 
-.. grid:: 2
-    :gutter: 2
-    :margin: 2
-    :padding: 0
+.. sidebar::
 
-    .. grid-item-card::
-        :columns: 2
+    .. grid:: 2
+        :gutter: 2
+        :margin: 2
+        :padding: 0
 
-        Address:
+        .. grid-item-card::
+            :columns: 5
 
-    .. grid-item-card::
-        :columns: 3
+            Address:
 
-        701 W. Stadium Ave. 
-        West Lafayette, IN 47907-2045
+        .. grid-item-card::
+            :columns: 6
 
-.. grid:: 2
-    :gutter: 2
-    :margin: 2
-    :padding: 0
+            701 W. Stadium Ave. 
+            West Lafayette, IN 47907-2045
 
-
-    .. grid-item-card::
-        :columns: 2
-
-        Office:
-
-    .. grid-item-card::
-        :columns: 3
-
-        ARMS 3309
+    .. grid:: 2
+        :gutter: 2
+        :margin: 2
+        :padding: 0
 
 
-.. grid:: 2
-    :gutter: 2
-    :margin: 2
-    :padding: 0
+        .. grid-item-card::
+            :columns: 5
 
-    .. grid-item-card::
-        :columns: 2
+            Office:
 
-        Office Phone:
+        .. grid-item-card::
+            :columns: 6
 
-    .. grid-item-card::
-        :columns: 3
-
-        765-494-7436
+            ARMS 3309
 
 
-.. grid:: 2
-    :gutter: 2
-    :margin: 2
-    :padding: 0
+    .. grid:: 2
+        :gutter: 2
+        :margin: 2
+        :padding: 0
 
-    .. grid-item-card::
-        :columns: 2
+        .. grid-item-card::
+            :columns: 5
 
-        Email:
+            Office Phone:
 
-    .. grid-item-card::
-        :columns: 3
+        .. grid-item-card::
+            :columns: 6
 
-        cfrueh@purdue.edu
+            765-494-7436
 
+
+    .. grid:: 2
+        :gutter: 2
+        :margin: 2
+        :padding: 0
+
+        .. grid-item-card::
+            :columns: 5
+
+            Email:
+
+        .. grid-item-card::
+            :columns: 6
+
+            cfrueh@purdue.edu
 
 Awards and Major Appointments
-.............................
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - The Elmer F. Bruhn Teaching Award, 2021 
 - DAAD Faculty Award, German Space Operations Center at DLR, 2017, 2020-2021 
 - Recognized among Outstanding Engineering Teachers, Summer-Fall, 2019 
@@ -93,7 +93,7 @@ Awards and Major Appointments
 - US National Research Council Postdoctoral Fellowship, Air Force Research Lab, 2012/2013
 
 Research Areas
-..............
+~~~~~~~~~~~~~~
 - Space Domain Awareness and Space Traffic Management in the Near-Earth and Cislunar Region
 - Space Surveillance, Detection & Tracking
 - Object Characterization of satellites and space debris in the Near-Earth and Cislunar Realm
@@ -103,9 +103,3 @@ Research Areas
 - Low Observability Systems
 - Information Quantification and Retrieval
 - Machine Learning
-
-Publications
-~~~~~~~~~~~~
-
-.. bibliography::
-   :filter: author % "Frueh"

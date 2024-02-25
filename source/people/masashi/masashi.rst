@@ -4,10 +4,3 @@
 
 Masashi Nishiguchi
 ==================
-
-
-Publications
-~~~~~~~~~~~~
-
-.. bibliography::
-   :filter: author % "Nishiguchi"

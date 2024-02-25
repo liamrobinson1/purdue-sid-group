@@ -4,10 +4,3 @@
 
 Nathan Houtz
 ============
-
-
-Publications
-~~~~~~~~~~~~
-
-.. bibliography::
-   :filter: author % "Houtz"

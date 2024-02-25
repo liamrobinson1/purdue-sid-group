@@ -4,10 +4,3 @@
 
 Alex Burton
 ===========
-
-
-Publications
-~~~~~~~~~~~~
-
-.. bibliography::
-   :filter: author % "Burton"

@@ -135,22 +135,163 @@ Visiting Students
 PhD Alumni
 ..........
 
+.. grid:: 2 3 3 4
+
+    .. grid-item-card:: Rochelle Melish
+        :shadow: sm
+        :padding: 2
+
+        2017
+
+    .. grid-item-card:: Bryan Little
+        :shadow: sm
+        :padding: 2
+
+        2019
+
+    .. grid-item-card:: Alex Friedmann
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Smriti Nandan Paul
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Siwei Fan
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+
 MS Alumni
 .........
 
 .. grid:: 2 3 3 4
 
-    .. grid-item-card:: Dan Curren
-        :img-top: people/dan/dan.png
+    .. grid-item-card:: Raja Manish
         :shadow: sm
         :padding: 2
 
-Visiting Student Alumni
-.......................
+        2016
+
+    .. grid-item-card:: Adam Bruce
+        :shadow: sm
+        :padding: 2 
+
+        2016
+
+    .. grid-item-card:: Roshan Thomas Eapen
+        :shadow: sm
+        :padding: 2
+
+        2017
+
+    .. grid-item-card:: Rohith Reddy Sanaga
+        :shadow: sm
+        :padding: 2
+
+        2019
+
+    .. grid-item-card:: Surabhi Bhadauria
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Daigo Kobayashi
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Dan Curren
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Christopher Yang
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Patrick Kelly
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Michael Rose
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Pavithra Ravi
+        :shadow: sm
+        :padding: 2
+
+        2021
+
+    .. grid-item-card:: Nicholas Baietto
+        :shadow: sm
+        :padding: 2
+
+        2022
+
+    .. grid-item-card:: Colin Avery Miller
+        :shadow: sm
+        :padding: 2
+
+        2022
+
+Directed Studies Students
+.........................
+
+.. grid:: 2 3 3 4
+
+    .. grid-item-card:: Zachary Trainer
+        :shadow: sm
+        :padding: 2
+
+        2023
+    
+    .. grid-item-card:: Luca Feretti
+        :shadow: sm
+        :padding: 2
+
+        2020
+
+    .. grid-item-card:: Mitch Zielinksi
+        :shadow: sm
+        :padding: 2
+
+        2018
+
+    .. grid-item-card:: Georgis Georgalis
+        :shadow: sm
+        :padding: 2
+
+        2016
+
+    .. grid-item-card:: Francois Sanson
+
+        2015
+
+
+Visiting Students
+.................
 
 .. grid:: 2 3 3 4
 
     .. grid-item-card:: Riccardo Cipollone
-        :img-top: people/riccardo/riccardo.jpg
         :shadow: sm
         :padding: 2
+
+        2023

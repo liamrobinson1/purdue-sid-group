@@ -9,7 +9,9 @@ Resources
 - `ESA Space Environment Report <https://www.sdo.esoc.esa.int/environment_report/Space_Environment_Report_latest.pdf>`_
 - `NASA Conjunction Assessement and Risk Analysis (CARA) Handbook <https://www.nasa.gov/wp-content/uploads/2023/07/oce-51.pdf?emrc=c0a365?emrc=c0a365>`_
 - `NASA Orbital Debris Quarterly News <https://orbitaldebris.jsc.nasa.gov/quarterly-news/>`_
-
+- :download:`CCSDS CDM Blue Book <_static/books/bluebook_CDM.pdf>`
+- :download:`CCSDS ODM Blue Book <_static/books/bluebook_ODM.pdf>`
+- :download:`CCSDS CDM Pink Book <_static/books/pinkbook_TDM.pdf>`
 
 Chairs
 .......

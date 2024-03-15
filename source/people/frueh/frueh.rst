@@ -24,12 +24,12 @@ MS of Science, Karlsruhe Institute of Technology, Germany, 2006
         :padding: 0
 
         .. grid-item-card::
-            :columns: 5
+            :columns: 4
 
             Address:
 
         .. grid-item-card::
-            :columns: 6
+            :columns: 7
 
             701 W. Stadium Ave. 
             West Lafayette, IN 47907-2045
@@ -41,12 +41,12 @@ MS of Science, Karlsruhe Institute of Technology, Germany, 2006
 
 
         .. grid-item-card::
-            :columns: 5
+            :columns: 4
 
             Office:
 
         .. grid-item-card::
-            :columns: 6
+            :columns: 7
 
             ARMS 3309
 
@@ -57,12 +57,12 @@ MS of Science, Karlsruhe Institute of Technology, Germany, 2006
         :padding: 0
 
         .. grid-item-card::
-            :columns: 5
+            :columns: 4
 
             Office Phone:
 
         .. grid-item-card::
-            :columns: 6
+            :columns: 7
 
             765-494-7436
 
@@ -73,12 +73,12 @@ MS of Science, Karlsruhe Institute of Technology, Germany, 2006
         :padding: 0
 
         .. grid-item-card::
-            :columns: 5
+            :columns: 4
 
             Email:
 
         .. grid-item-card::
-            :columns: 6
+            :columns: 7
 
             cfrueh@purdue.edu
 

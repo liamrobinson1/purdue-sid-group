@@ -9,8 +9,7 @@ Dr. Carolin Frueh's Space Information Dynamics Group
 
    people
    publications
-   aae590
-   projects
+   aae533
    pedas
    pogs
 

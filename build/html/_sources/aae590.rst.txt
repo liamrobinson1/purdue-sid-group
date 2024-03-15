@@ -1,6 +1,0 @@
-AAE 590 STM
-===========
-
-Dr. Frueh's AAE 590 Space Traffic Management (STM) course is offered every Fall semester.
-
-:download:`Course notes <_static/script/STM_script_Fall2023.pdf>`

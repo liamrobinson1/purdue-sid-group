@@ -50,6 +50,8 @@ PhD Students
         BS Waseda University 2018; MS AAE Purdue University, 2020
 
     .. grid-item-card:: Juan Gutierrez
+        :link: people/juan/juan.html
+        :img-top: people/juan/juan.jpg
         :shadow: sm
         :padding: 2
 
@@ -67,10 +69,11 @@ PhD Students
         :shadow: sm
         :padding: 2
 
-        BS AAE, Purdue University, 2022
+        BS AAE Purdue University 2022; MS AAE Purdue University 2023
 
     .. grid-item-card:: Jeffrey Pekosh
         :link: people/jeffrey/jeffrey.html
+        :img-top: people/jeffrey/jeffrey.png
         :shadow: sm
         :padding: 2
 
@@ -209,12 +212,6 @@ MS Alumni
 
         2020
 
-    .. grid-item-card:: Dan Curren
-        :shadow: sm
-        :padding: 2
-
-        2020
-
     .. grid-item-card:: Christopher Yang
         :shadow: sm
         :padding: 2
@@ -250,6 +247,12 @@ MS Alumni
         :padding: 2
 
         2022
+
+    .. grid-item-card:: Dan Curren
+        :shadow: sm
+        :padding: 2
+
+        2023
 
 Directed Studies Students
 .........................

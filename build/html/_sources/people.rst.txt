@@ -101,8 +101,11 @@ Master's Students
 
     .. grid-item-card:: Brandon Castillo
         :link: people/brandon/brandon.html
+        :img-top: people/brandon/brandon.jpeg
         :shadow: sm
         :padding: 2
+
+        MS Aerospace & Ocean Engineering, Virgina Tech, 2020
 
 Undergraduate Students
 ======================

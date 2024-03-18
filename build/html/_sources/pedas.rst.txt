@@ -3,8 +3,11 @@ COSPAR PEDAS
 ============
 
 .. attention::
-    45th COSPAR Scientific Assembly - COSPAR 2024 
+    `45th COSPAR Scientific Assembly - COSPAR 2024 <https://www.cospar-assembly.org/assembly.php>`_
     Busan, South Korea, 13 - 21 July 2024
+
+.. seealso:: 
+    `Subscribe <https://docs.google.com/forms/d/e/1FAIpQLSc0R77_v5ImAqtsBoFozO9-z9_bJuteoDJs87c2QnvrffCYbg/viewform>`_ to the PEDAS mailing list.
 
 
 The Committee on Space Research (COSPAR) Panel on Potentially Environmentally Detrimental Activities in Space (PEDAS) is concerned with perturbations of the terrestrial and planetary environments resulting from space activities. Typical examples are: space debris in Earth orbit, light pollution from satellites, pollution of the Earth's atmosphere by rocket launches and re-entries, perturbation of the lunar environment by all human activities as well as possible perturbation of the Martian environment by space activities. The Panel acts on an ad hoc basis to evaluate questions of environmental impacts by space activities alone or together with other relevant organizations primarily to advise the international community, e.g., the Committee on the Peaceful Uses of Outer Space (COPUOS) of the United Nations.
@@ -28,7 +31,5 @@ Intercommission/Panel/Task Group Liaisons
 ..........................................
 
 Committee on Industry Relations - PEDAS:  Hélène Boithias (Airbus), 2024 - 2028
-Committee on Industry Relations - PEDAS:  John Reed, ULA, Chief Technologist
 
-.. seealso:: 
-    `Subscribe <https://docs.google.com/forms/d/e/1FAIpQLSc0R77_v5ImAqtsBoFozO9-z9_bJuteoDJs87c2QnvrffCYbg/viewform>`_ to the PEDAS mailing list.
+Committee on Industry Relations - PEDAS:  John Reed, ULA, Chief Technologist
